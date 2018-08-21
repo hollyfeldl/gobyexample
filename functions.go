@@ -15,7 +15,6 @@ func plusPlus(a , b, c int) int {
 
 func main() {
 
-
 	res := plus(1, 2)
 	fmt.Println("1+2 =", res)
 
